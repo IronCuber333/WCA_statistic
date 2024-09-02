@@ -10,4 +10,4 @@ WCAからエクスポートできるtsvファイルを用いて，統計処理�
 
 ## 元データの構造
 
-詳細は[ドキュメント](document\wca_export_structure.pdf)を参照してください．
+詳細は[ドキュメント](document/wca_export_structure.pdf)を参照してください．
