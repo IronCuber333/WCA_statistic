@@ -1,0 +1,8 @@
+.env
+bin/
+/data/*
+!/data/.gitkeep
+/out/*
+!/out/.gitkeep
+/document/out/*
+!/document/out/.gitkeep
